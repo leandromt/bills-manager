@@ -2,7 +2,7 @@
 
 Node and React JS
 
-## Backend Build Setup
+## Back-end Build Setup
 
 ```bash
 # install dependencies
@@ -12,7 +12,7 @@ npm install
 npm run dev
 ```
 
-## Frontend Build Setup
+## Front-end Build Setup
 
 ```bash
 # install dependencies
